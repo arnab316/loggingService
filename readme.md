@@ -29,7 +29,6 @@ The **Movie Streaming Logging Service** is a Node.js application designed to log
 - Express
 - Sequelize (MySQL)
 - Elasticsearch
-- RabbitMQ
 
 ## Installation
 
